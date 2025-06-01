@@ -5,7 +5,7 @@ This project is an interactive dashboard designed to help users upload, clean, c
 ## Features
 
 - **Dataset Upload:** Easily upload CSV files for analysis.
-- **Simple EDA:** View the first rows, summary statistics, and data types of your dataset.
+- **Exploratory Data Analysis:** View the first rows, summary statistics, and data types of your dataset.
 - **Data Visualization:** Visualize data and model results using interactive Plotly charts.
 - **AI Techniques:** Apply machine learning models such as Regression and KMeans Clustering to your data.
 - **Extensible:** The project is a work in progress, with plans to add more models and data cleaning/conversion features.
